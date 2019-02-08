@@ -1,0 +1,52 @@
+#mybody{
+    background-color: bisque
+}
+#mydiv{
+    border: 3px solid rgb(54, 18, 18);
+    padding: 30px;
+    text-align: center;
+ /* background-color: chocolate; */
+    margin-bottom: 20px;
+}
+
+#text1{
+    margin-right: 20px;
+    height: 50px;
+    width: 600px;
+
+    padding: 0px 10px 0px 10px;
+}
+#h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+#button1{
+    height: 35px;
+    width: 100px;
+    /* margin-top: 20px; */
+    /* margin-right: 500px; */
+}
+#div3{
+    background-color: rgb(167, 162, 180);
+    color: white;
+    border-radius: 10px;
+}
+.edit1{
+    margin: 0px 5px 0px 5px;
+    width: 10%;
+    /* border-radius: 10px; */
+    float: right;
+    height: 50px;
+    font-size: 25px;
+    background-color: white;
+
+    border: 2px solid dimgray;
+    border-radius: 8px;
+}
+.edit1:hover{
+    background-color: dimgray;
+    color: white; 
+}
+.liclass{
+    font-size:35px;
+}
